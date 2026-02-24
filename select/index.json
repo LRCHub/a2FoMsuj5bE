@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "憂い桜",
+  "base_artist": "あたらよ",
+  "createdAt": "2026-02-24T11:45:43.442357Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "憂い桜",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/01_憂い桜_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "憂い桜",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/02_憂い桜_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "憂い桜",
+      "artist": "ATARAYO (あたらよ)",
+      "has_synced": true,
+      "path": "select/03_憂い桜_ATARAYO_(あたらよ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "憂い桜",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/pl_01_憂い桜_あたらよ.txt"
+    }
+  ]
+}
